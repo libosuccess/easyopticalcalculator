@@ -1,7 +1,11 @@
-# Welcome to streamlit
+# Welcome to easyCalculator	
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+This is the app built with streamlit.
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+Edit [easyCalculator](./easyCalculator.py) to customize this app to your heart's desire. ❤️ 
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+Multipages can be see in [./pages/]
+
+You can visit [the website](https://libosuccess-easycalculator.streamlit.app/).
+
+Author: Bo Li
