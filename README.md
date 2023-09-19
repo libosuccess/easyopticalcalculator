@@ -1,11 +1,11 @@
 # Welcome to easyCalculator	
 
-This is the app built with streamlit.
+You can visit by clicking [https://libosuccess-easycalculator.streamlit.app/](https://libosuccess-easycalculator.streamlit.app/).
 
-Edit [easyCalculator](./easyCalculator.py) to customize this app to your heart's desire. ❤️ 
+**功能1：** 输入波长，FWHM，计算出其他参数；
 
-Multipages can be see in [./pages/]
+**功能2：** 输入波长，频宽，计算出其他参数；
 
-You can visit [the website](https://libosuccess-easycalculator.streamlit.app/).
+Author: Bo Li  ❤️ 
 
-Author: Bo Li
+This is the app built with [streamlit](https://streamlit.io/).
